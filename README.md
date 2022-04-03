@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gael Rakoto
+- 👋 Hi, I’m from Madagascar and learning python.
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Deep Learning Modelling and TensorFlow
 - 💞️ I’m looking forward to collaborate on many projects
